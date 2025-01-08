@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\פרוייקט api c#\links\links.core\bin\Debug\net6.0\links.core.deps.json
+C:\Users\user\Desktop\פרוייקט api c#\links\links.core\bin\Debug\net6.0\links.core.dll
+C:\Users\user\Desktop\פרוייקט api c#\links\links.core\bin\Debug\net6.0\links.core.pdb
+C:\Users\user\Desktop\פרוייקט api c#\links\links.core\obj\Debug\net6.0\links.core.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\פרוייקט api c#\links\links.core\obj\Debug\net6.0\links.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\פרוייקט api c#\links\links.core\obj\Debug\net6.0\links.core.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\פרוייקט api c#\links\links.core\obj\Debug\net6.0\links.core.AssemblyInfo.cs
+C:\Users\user\Desktop\פרוייקט api c#\links\links.core\obj\Debug\net6.0\links.core.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\פרוייקט api c#\links\links.core\obj\Debug\net6.0\links.core.dll
+C:\Users\user\Desktop\פרוייקט api c#\links\links.core\obj\Debug\net6.0\refint\links.core.dll
+C:\Users\user\Desktop\פרוייקט api c#\links\links.core\obj\Debug\net6.0\links.core.pdb
+C:\Users\user\Desktop\פרוייקט api c#\links\links.core\obj\Debug\net6.0\ref\links.core.dll

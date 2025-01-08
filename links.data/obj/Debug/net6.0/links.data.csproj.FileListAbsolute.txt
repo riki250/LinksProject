@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\פרוייקט api c#\links\links.data\bin\Debug\net6.0\links.data.deps.json
+C:\Users\user\Desktop\פרוייקט api c#\links\links.data\bin\Debug\net6.0\links.data.runtimeconfig.json
+C:\Users\user\Desktop\פרוייקט api c#\links\links.data\bin\Debug\net6.0\links.data.dll
+C:\Users\user\Desktop\פרוייקט api c#\links\links.data\bin\Debug\net6.0\links.data.pdb
+C:\Users\user\Desktop\פרוייקט api c#\links\links.data\bin\Debug\net6.0\links.core.dll
+C:\Users\user\Desktop\פרוייקט api c#\links\links.data\bin\Debug\net6.0\links.core.pdb
+C:\Users\user\Desktop\פרוייקט api c#\links\links.data\obj\Debug\net6.0\links.data.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\פרוייקט api c#\links\links.data\obj\Debug\net6.0\links.data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\פרוייקט api c#\links\links.data\obj\Debug\net6.0\links.data.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\פרוייקט api c#\links\links.data\obj\Debug\net6.0\links.data.AssemblyInfo.cs
+C:\Users\user\Desktop\פרוייקט api c#\links\links.data\obj\Debug\net6.0\links.data.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\פרוייקט api c#\links\links.data\obj\Debug\net6.0\links.data.csproj.CopyComplete
+C:\Users\user\Desktop\פרוייקט api c#\links\links.data\obj\Debug\net6.0\links.data.dll
+C:\Users\user\Desktop\פרוייקט api c#\links\links.data\obj\Debug\net6.0\refint\links.data.dll
+C:\Users\user\Desktop\פרוייקט api c#\links\links.data\obj\Debug\net6.0\links.data.pdb
+C:\Users\user\Desktop\פרוייקט api c#\links\links.data\obj\Debug\net6.0\links.data.genruntimeconfig.cache
+C:\Users\user\Desktop\פרוייקט api c#\links\links.data\obj\Debug\net6.0\ref\links.data.dll

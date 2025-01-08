@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "links.service/1.0.0": {
+        "dependencies": {
+          "links.core": "1.0.0"
+        },
+        "runtime": {
+          "links.service.dll": {}
+        }
+      },
+      "links.core/1.0.0": {
+        "runtime": {
+          "links.core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "links.service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "links.core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

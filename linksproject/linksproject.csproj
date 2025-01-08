@@ -6,4 +6,18 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.25">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="UmbracoCms.Core" Version="8.18.15" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\links.core\links.core.csproj" />
+    <ProjectReference Include="..\links.data\links.data.csproj" />
+    <ProjectReference Include="..\links.service\links.service.csproj" />
+  </ItemGroup>
+
 </Project>

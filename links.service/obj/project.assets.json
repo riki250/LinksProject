@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "links.core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/links.core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/links.core.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "links.core/1.0.0": {
+      "type": "project",
+      "path": "../links.core/links.core.csproj",
+      "msbuildProject": "../links.core/links.core.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "links.core >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\user\\.nuget\\packages\\": {},
@@ -39,7 +58,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\user\\Desktop\\פרוייקט api c#\\links\\links.core\\links.core.csproj": {
+              "projectPath": "C:\\Users\\user\\Desktop\\פרוייקט api c#\\links\\links.core\\links.core.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
