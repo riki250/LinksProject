@@ -130,3 +130,8 @@ C:\Users\user\Desktop\פרוייקט api c#\links\linksproject\obj\Debug\net6.0\
 C:\Users\user\Desktop\פרוייקט api c#\links\linksproject\obj\Debug\net6.0\linksproject.pdb
 C:\Users\user\Desktop\פרוייקט api c#\links\linksproject\obj\Debug\net6.0\linksproject.genruntimeconfig.cache
 C:\Users\user\Desktop\פרוייקט api c#\links\linksproject\obj\Debug\net6.0\ref\linksproject.dll
+C:\Users\user\Desktop\פרוייקט api c#\links\linksproject\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\user\Desktop\פרוייקט api c#\links\linksproject\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Desktop\פרוייקט api c#\links\linksproject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Desktop\פרוייקט api c#\links\linksproject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Desktop\פרוייקט api c#\links\linksproject\obj\Debug\net6.0\linksproject.MvcApplicationPartsAssemblyInfo.cs
